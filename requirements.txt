@@ -1,2 +1,4 @@
 python-telegram-bot==11.1.0
 imageio == 2.8.0
+numpy==1.9.2
+scipy==0.15.1
